@@ -5,7 +5,7 @@ mutation movies_french {
     value: { 
       genre:"French", 
       year:2001,
-      title:"Rushi",
+      title:"Rushi Patel",
       synopsis:"Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
       duration:122,
       thumbnail:"https://i.imgur.com/fan0H9k.mp4"}) {
