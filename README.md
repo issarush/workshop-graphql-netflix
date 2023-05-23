@@ -6,6 +6,7 @@
 ![image](./img/ui.png)
 
 [Demo](https://netflixcloneworkshop.netlify.app/)
+
 Allow 3-5 minutes if the database is resuming from hibernation
 
 - Created a Netflix clone using the **JAMStack** and **serverless functions**
