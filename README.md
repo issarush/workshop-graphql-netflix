@@ -5,7 +5,7 @@
 
 ![image](./img/ui.png)
 
-[Demo](https://netflixcloneworkshop.netlify.app/)
+[Click here to view the Demo](https://netflixcloneworkshop.netlify.app/)
 
 Allow 1-2 minutes if the database is resuming from hibernation
 
