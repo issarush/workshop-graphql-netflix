@@ -7,7 +7,7 @@
 
 [Demo](https://netflixcloneworkshop.netlify.app/)
 
-Allow 3-5 minutes if the database is resuming from hibernation
+Allow 1-2 minutes if the database is resuming from hibernation
 
 - Created a Netflix clone using the **JAMStack** and **serverless functions**
 - Refactored **React** code to customize the frontend UI
