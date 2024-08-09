@@ -1,5 +1,5 @@
 <!--- STARTEXCLUDE --->
-#  Netflix Clone using Astra DB and GraphQL (Datastax Dev Workshop)
+#  Netflix Clone using Astra DB and GraphQL
 
 <!--- ENDEXCLUDE --->
 
